@@ -1,0 +1,109 @@
+name,count,sub,sub_count,total
+Service Recovery ,3,Business Class,15677,48412
+Service Recovery ,3,Economy Class,25493,48412
+Service Recovery ,3,First Class,7242,48412
+Safety,21,Passenger Behaviour,1735,3543
+Safety,21,Crew Procedures,607,3543
+Safety,21,Communication,57,3543
+Safety,21,Smoke,61,3543
+Safety,21,Smoking ,228,3543
+Safety,21,Smoke Detectors,138,3543
+Safety,21,Cabin Management,202,3543
+Safety,21,Smoking,40,3543
+Safety,21,Weather,25,3543
+Safety,21,Technical,151,3543
+Safety,21,Ground Operations,108,3543
+Safety,21,Unidentified Noise,12,3543
+Safety,21,Fumes ,51,3543
+Safety,21,Doors,62,3543
+Safety,21,Fire,4,3543
+Safety,21,Emergency Equipment,36,3543
+Safety,21,Diversions,13,3543
+Safety,21,Vibration,6,3543
+Safety,21,Fire Extinguisher,5,3543
+Safety,21,Declared Emergency,1,3543
+Safety,21,Door Checker,1,3543
+Airport ,2, Dubai,4144,7542
+Airport ,2, Outstation,3398,7542
+Duty Free,9,Duty Free Items,2028,4307
+Duty Free,9,Equipment,954,4307
+Duty Free,9,Seals,638,4307
+Duty Free,9,DF Done Nil Sales,202,4307
+Duty Free,9,Duty Free Targets,123,4307
+Duty Free,9,DF not done,180,4307
+Duty Free,9,Special Offers,90,4307
+Duty Free,9,Paper Work,90,4307
+Duty Free,9, NO SUB CLASS ,2,4307
+Catering,2,Loading,6501,26989
+Catering,2,Food,20488,26989
+Medical,5,Passenger,5512,6827
+Medical,5,HRK,52,6827
+Medical,5,EMK/FAK/SEMK/UPK,248,6827
+Medical,5,Crew,937,6827
+Medical,5,EquipmentFault,78,6827
+Cabin Crew,8,Compliments,6197,9800
+Cabin Crew,8,Hotel Feedback,445,9800
+Cabin Crew,8,Image ,806,9800
+Cabin Crew,8,Payroll adjustments,878,9800
+Cabin Crew,8,VCM ,287,9800
+Cabin Crew,8,Complaints,1140,9800
+Cabin Crew,8,Fitness ,31,9800
+Cabin Crew,8,Peer Support,16,9800
+Security,17,Suspicious Items,26,3708
+Security,17,Security Search,666,3708
+Security,17,Disruptive/ Non,634,3708
+Security,17,Disruptive/ Alcohol,779,3708
+Security,17,General,878,3708
+Security,17,Confidential Issues,37,3708
+Security,17,Precious Cargo,184,3708
+Security,17,Hotel Security,46,3708
+Security,17,Airport,99,3708
+Security,17,Theft,143,3708
+Security,17,Suspicious Behaviour,136,3708
+Security,17,Audits,14,3708
+Security,17,Fraud,15,3708
+Security,17,Passenger Load Error,28,3708
+Security,17,Passports,21,3708
+Security,17,Bomb Threat,1,3708
+Security,17,Arms/ Weapons,1,3708
+Emirates Skywards ,3,Transactions,738,2121
+Emirates Skywards ,3,IO customers,476,2121
+Emirates Skywards ,3,Product Feedback,907,2121
+Product Development,8,YC Prod / Service,2665,6284
+Product Development,8,JC Prod / Service,2681,6284
+Product Development,8,FC Prod / Service,448,6284
+Product Development,8,JC SSQ Errors,44,6284
+Product Development,8,Ground to Pur Msgs,295,6284
+Product Development,8,YC SSQ Errors,66,6284
+Product Development,8,PA issues,71,6284
+Product Development,8,FC SSQ Errors,14,6284
+Pax Comms,3,Business Class,148,345
+Pax Comms,3,First Class,73,345
+Pax Comms,3,Economy Class,124,345
+KIS/MOD,2,KIS Application,1606,1890
+KIS/MOD,2,Printer,284,1890
+Ships Library,1,OME Braille W.Stmt,284,284
+Survey Forms,1, NO SUB CLASS ,186,186
+Aircraft Development,5,Systems (non,330,617
+Aircraft Development,5,Lavatory,44,617
+Aircraft Development,5,Galley,187,617
+Aircraft Development,5,Shower Spa,20,617
+Aircraft Development,5,Lounge,36,617
+Transport,2,Outstation,106,155
+Transport,2,Base (Dubai),49,155
+Crew Rest Inflight,7,Extended,70,312
+Crew Rest Inflight,7,CRC,42,312
+Crew Rest Inflight,7,Soft Blocked Seats,53,312
+Crew Rest Inflight,7,Disturbed,43,312
+Crew Rest Inflight,7,Rest Strategies,59,312
+Crew Rest Inflight,7,Reduced,31,312
+Crew Rest Inflight,7,Curtains/Hardblocked,14,312
+Training Department,5,Image and Uniform,27,62
+Training Department,5,Service,24,62
+Training Department,5,Safety,6,62
+Training Department,5,Security,3,62
+Training Department,5,Duty Free,2,62
+Manuals,3,Station Information,38,91
+Manuals,3,Policies,38,91
+Manuals,3,Service Manual,15,91
+Service Recovery,1, NO SUB CLASS ,1,1
